@@ -1,16 +1,54 @@
-## Hi there 👋
+# Olá, eu sou o Guilherme Breder 👋
 
-<!--
-**Gbredo/Gbredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://linkedin.com/in/gsfb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:g.breder17@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre Mim
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **PUC-GO**.
+- ⚖️ **Ex-advogado**, unindo visão analítica, resolução de problemas complexos, atenção a detalhes e comunicação estratégica ao desenvolvimento de software.
+- 💬 **Inglês Fluente**, apto para atuar em equipes multiculturais e projetos globais.
+- 🎯 Foco atual em desenvolvimento **Full Stack** com ecossistemas **JavaScript/TypeScript (React, Node.js)** e **Java**.
+
+---
+
+### 🛠️ Tecnologias & Habilidades
+
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <br/>
+  <!-- Backend & DB -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Projeto em Destaque
+
+- 🎲 **[mighty-blade-foundry-vtt](https://github.com/Gbredo/mighty-blade-foundry-vtt)**  
+  Implementação do sistema de RPG *Mighty Blade 3.5* para a plataforma Foundry VTT utilizando JavaScript e manipulação de estado/APIs do sistema.
+
+---
+
+### 📊 Estatísticas
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gbredo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbredo&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" height="150" />
+</p>

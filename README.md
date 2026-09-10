@@ -49,6 +49,5 @@
 ### 📊 Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gbredo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gbredo&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Gbredo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
